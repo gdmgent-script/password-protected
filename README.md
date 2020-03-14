@@ -18,7 +18,8 @@ Laat een prompt-venster verschijnen bij het openen van de webpagina. In dit prom
 
 Zolang het verkeerde wachtwoord ingevoerd wordt, verschijnt terug eenzelfde nieuw prompt-venster.
 Vanaf het wachtwoord wel correct is zet je door middel van document.write(...): ‘Welkom, jij weet het wachtwoord! Je hebt 7x proberen raden`.
-Extra uitdaging?
+
+### Extra uitdaging?
 
 - Laat het prompt-venster pas verschijnen na een druk op een button (ipv de (do)-while-loop)
 - Laat het geheim wachtwoord al - door elkaar geschud - zien op de webpagina (bijvoorbeeld pfllkeyffa). Het is dan aan de gebruiker om te
