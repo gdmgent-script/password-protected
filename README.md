@@ -8,7 +8,7 @@
 - Solution ***solution***
 
 
-Excercise - guided
+Exercise - guided
 -------
 Gebruik voor deze oefening while of do while
 
